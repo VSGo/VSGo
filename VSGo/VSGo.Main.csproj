@@ -38,8 +38,8 @@
     <ProjectGuid>{F3C70A55-BE5B-4173-8BC4-503AF6950154}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TestLightBulb</RootNamespace>
-    <AssemblyName>TestLightBulb</AssemblyName>
+    <RootNamespace>VSGo</RootNamespace>
+    <AssemblyName>VSGo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>

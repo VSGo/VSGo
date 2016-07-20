@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.Text.Operations;
 using Microsoft.VisualStudio.Utilities;
 using System.ComponentModel.Composition;
 
-namespace TestLightBulb
+namespace VSGo
 {
     [Export(typeof(ISuggestedActionsSourceProvider))]
     [Name("Test Suggested Actions")]

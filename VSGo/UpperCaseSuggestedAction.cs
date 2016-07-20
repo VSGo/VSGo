@@ -9,7 +9,7 @@ using Microsoft.VisualStudio.Imaging.Interop;
 using Microsoft.VisualStudio.Language.Intellisense;
 using Microsoft.VisualStudio.Text;
 
-namespace TestLightBulb
+namespace VSGo
 {
     internal class UpperCaseSuggestedAction : ISuggestedAction
     {

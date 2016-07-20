@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace TestLightBulb
+namespace VSGo
 {
     class TestSuggestedActionsSource : ISuggestedActionsSource
     {

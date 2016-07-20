@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="09D11597-C453-4742-A4B8-C3311985D960" Version="1.0" Language="en-US" Publisher="VSGo" />
     <DisplayName>VSGo</DisplayName>
-    <Description xml:space="preserve">This sample modifies the lightbulb API to provide custom content for .txt files</Description>
+    <Description xml:space="preserve">VSGo to file.</Description>
     <Icon>Resources\Package.ico</Icon>
     <PreviewImage>Resources\Example_LightBulb.png</PreviewImage>
   </Metadata>
